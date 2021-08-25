@@ -1,6 +1,6 @@
 # oneAPI Video Processing Library
 
-![](<img src="https://spec.oneapi.io/oneapi-logo-white-scaled.jpg" />)
+<img src="https://spec.oneapi.io/oneapi-logo-white-scaled.jpg" width=50 height=50 />
 
 oneVPL is part of [oneAPI](https://oneapi.io)
 
