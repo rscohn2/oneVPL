@@ -1,5 +1,9 @@
 # oneAPI Video Processing Library
 
+![](<img src="https://spec.oneapi.io/oneapi-logo-white-scaled.jpg" />)
+
+oneVPL is part of [oneAPI](https://oneapi.io)
+
 The oneAPI Video Processing Library (oneVPL) provides a single video processing
 API for encode, decode, and video processing that works across a wide range of
 accelerators.
